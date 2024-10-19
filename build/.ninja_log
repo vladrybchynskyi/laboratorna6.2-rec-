@@ -1,0 +1,13 @@
+# ninja log v6
+1	467	1729362807336837323	CMakeFiles/laborw6_2.dir/labor6_2.cpp.o	d5b0e6261bccb9cf
+469	541	1729362807804165541	liblaborw6_2.a	eb6bbc704953e481
+1	902	1729362807337088880	googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	5a6cfff319e07b39
+2	1050	1729362807337545133	googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	ecebbc1c45de7f77
+1	1834	1729362807336971412	googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	58c1399f856e79b0
+1	3524	1729362807336551274	googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	de39f4cd6ab6f001
+4	70	1729362840434260919	lib/libgtest.a	44af1a8630f41d1e
+70	101	1729362840500649932	lib/libgtest_main.a	5161619b66d0044
+70	108	1729362840500411361	lib/libgmock.a	d3d20bbf79dfe62f
+108	137	1729362840538665139	lib/libgmock_main.a	931968981eefdfc6
+4	761	1729362840434678148	test/CMakeFiles/labor6_2test.dir/labor6_2test.cpp.o	2cdc141513466aaa
+762	881	1729362841192153733	test/labor6_2test	16b93785244373a4

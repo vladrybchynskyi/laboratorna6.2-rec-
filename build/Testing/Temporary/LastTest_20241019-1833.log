@@ -1,0 +1,26 @@
+Start testing: Oct 19 21:34 EEST
+----------------------------------------------------------
+1/1 Testing: labor6_2test
+1/1 Test: labor6_2test
+Command: "/Users/vladislav/Desktop/foruniversity/AP/cds/lb6/Labw62rec/build/test/labor6_2test"
+Directory: /Users/vladislav/Desktop/foruniversity/AP/cds/lb6/Labw62rec/build/test
+"labor6_2test" start time: Oct 19 21:34 EEST
+Output:
+----------------------------------------------------------
+a[ 0 ] =    8
+a[ 1 ] =   -9
+a[ 2 ] =    4
+a[ 3 ] =    5
+a[ 4 ] =   -1
+
+max index = 0
+min index = 1
+<end of output>
+Test time =   0.38 sec
+----------------------------------------------------------
+Test Passed.
+"labor6_2test" end time: Oct 19 21:34 EEST
+"labor6_2test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 19 21:34 EEST
